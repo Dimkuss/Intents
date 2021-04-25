@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="SYNC">Синхронизация</string>
+    <string name="go">ЗАПУСК</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+
+
+
+</resources>
